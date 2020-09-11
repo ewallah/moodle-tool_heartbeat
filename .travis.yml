@@ -8,7 +8,6 @@ dist: bionic
 services:
   - mysql
   - postgresql
-  - docker
 
 addons:
   postgresql: "9.6"
